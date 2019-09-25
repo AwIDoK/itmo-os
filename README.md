@@ -11,10 +11,8 @@
 
 [Simple tcp echo client and server](https://github.com/AwIDoK/os-net)
 
-[tcp echo and server using multiplexing](https://github.com/AwIDoK/os-net-multiplexing)
+[tcp echo and server with multiplexing](https://github.com/AwIDoK/os-net-multiplexing)
 
-[tcp echo and server using multiplexing](https://github.com/AwIDoK/os-net-multiplexing)
-
-[example of descriptor pasing](https://github.com/AwIDoK/os-net-descriptor-passing)
+[example of descriptor passing](https://github.com/AwIDoK/os-net-descriptor-passing)
 
 [example of signal processing](https://github.com/AwIDoK/os-signal)
