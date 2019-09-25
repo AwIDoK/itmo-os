@@ -1,5 +1,5 @@
 # itmo-os
-## Homeworks for os course in ITMO
+## Homework for os course in ITMO
 
 [shell to execute programs](https://github.com/AwIDoK/os-kidshell)
 
